@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hola, soy Gino Laguna 👋</h1>
 </div>
-<h1>ACA COLOCAR IMAGEN</h1> 
+<img scr="https://github.com/GinnLac/GinnLac/blob/main/Gino%20Laguna.png"> 
 
 ## Sobre mi
 
