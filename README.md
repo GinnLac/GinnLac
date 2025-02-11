@@ -1,27 +1,24 @@
-<!--
-**GinnLac/GinnLac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <h1 align="center">Hola, soy Gino Laguna 👋</h1>
 </div>
 <img src= "https://github.com/GinnLac/GinnLac/blob/main/Gino%20Laguna.png">
-## Sobre mi
 
--
--
--
+## Sobre mi
+Bachiller en Ingeniería Industrial con experiencia en análisis de datos, optimización de procesos y gestión de proyectos. Me apasiona utilizar herramientas tecnológicas para transformar datos en insights accionables y mejorar la eficiencia operativa.
+
+### **Habilidades técnicas:**
+- **Herramientas de análisis:** Power BI, Excel(macros, tablas dinámicas).
+- **Programación:** Python, SQL.
+- **Gestión de proyectos:** Metodologías ágiles (Scrum, PMBOOK), Microsoft Project.
+- **Visualización de datos:** Desarrollo de dashboards analíticos.
+- **Automatización:** Scripts en Python para optimización de procesos.
+
+### **Intereses:**
+- Análisis de datos y Business Intelligence.
+- Automatización de procesos y mejora continua.
+- Desarrollo de soluciones tecnológicas innovadoras.
+- Gestión de proyectos y trabajo en equipos multidisciplinarios.
+  
 
 ## Proyectos
 <table>
@@ -44,14 +41,14 @@ Here are some ideas to get you started:
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/GinnLac/An-lisis-Financiero-de-Ventas" target="_blank"><img src="https://tickelia.com/wp-content/uploads/2024/10/analisis-financiero.jpg"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/GinnLac/An-lisis-Financiero-de-Ventas" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Este proyecto presenta un análisis financiero detallado de ventas globales, enfocándose en el rendimiento por continente, categoría y subcategoría de productos. El dashboard proporciona una visión integral de las utilidades, costos y tendencias de ventas a lo largo del tiempo, permitiendo una toma de decisiones más informada.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
