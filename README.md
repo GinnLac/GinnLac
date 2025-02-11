@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Proyecto World Data 2023</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/GinnLac/Proyecto-World-Data-2023" target="_blank"><img src="https://media.istockphoto.com/id/1442849073/es/foto/el-fondo-de-la-ilustración-3d-de-earth-space-planet-luces-de-la-ciudad-en-el-planeta.jpg?s=612x612&w=0&k=20&c=_4XkO9PXk12NxfhjOIt_toxIaqD-_3_yQou1Gb9jeqw="></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/GinnLac/Proyecto-World-Data-2023" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Este proyecto es un análisis de datos mundiales del año 2023, enfocado en áreas como población, salud, medioambiente y desempleo. El objetivo es explorar y visualizar tendencias globales utilizando datos de diversos países.</p>
 </div>
                                                                                       
 </td>
