@@ -39,7 +39,7 @@ Bachiller en Ingeniería Industrial con experiencia en análisis de datos, optim
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Análisis Financiero de Ventas</h3>
 <div align="center">                                       
 <a href="https://github.com/GinnLac/An-lisis-Financiero-de-Ventas" target="_blank"><img src="https://tickelia.com/wp-content/uploads/2024/10/analisis-financiero.jpg"></a>
 <br>
